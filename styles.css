@@ -1,0 +1,72 @@
+body {
+    font-family: 'Staatliches', sans-serif;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.title {
+    color: white;
+    font-size: 50px;
+    background-color: black;
+    font-weight: 800;
+    padding: 20px;
+    text-align: center;
+}
+
+.start-button {
+    height: 50px;
+    width: 100px;
+}
+
+.firstImage {
+    height: 400px;
+    width: 500px;
+    text-align: center;
+    margin: 0px 500px 0px 500px;
+}
+
+.secondImage {
+    height: 400px;
+    width: 500px;
+    border: 5px solid black;
+    padding: 2px;
+    text-align: center;
+    margin: 0px 100px 0px 100px;
+    display:none;
+}
+
+.thirdImage {
+    height: 400px;
+    width: 500px;
+    border: 5px solid black;
+    padding: 2px;
+    text-align: center;
+    margin: 0px 100px 0px 100px;
+    display:none;
+}
+
+.button {
+    display: flex;
+    height: 50px;
+    width: 200px;
+    font-size: 50px;
+    font-weight: bolder;
+    justify-content: center;
+    margin: 20px auto;
+}
+
+.ending-img {
+    height: 400px;
+    width: 500px;
+    border: 5px solid black;
+    padding: 2px;
+    text-align: center;
+    margin: 0px 500px 0px 500px;
+    display:none;
+}
